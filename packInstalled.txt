@@ -1,1 +1,1 @@
-npm install --save props-types : pour valider les types de props a recevoir
+yarn add or npm install --save prop-types : pour valider les types de props a recevoir
