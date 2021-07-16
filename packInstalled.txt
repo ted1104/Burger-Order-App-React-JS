@@ -1,1 +1,7 @@
 yarn add or npm install --save prop-types : pour valider les types de props a recevoir
+
+
+BEST PRATICE
+============
+
+- Add props validation to all component if you work on a team
