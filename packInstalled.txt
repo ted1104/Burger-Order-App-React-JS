@@ -5,3 +5,4 @@ BEST PRATICE
 ============
 
 - Add props validation to all component if you work on a team
+- Using shouldComponentUpdate to refuse uncessary re-render of component

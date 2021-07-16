@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import Aux from "../../../hoc/Auxiliaire";
+import Aux from "../../../hoc/Auxiliaire/Auxiliaire";
 import Button from "../../UI/Button/Button";
 class OrderSummary extends Component {
   //THIS Component must not be a class component, a function component is right
