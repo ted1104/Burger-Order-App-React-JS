@@ -1,4 +1,5 @@
 yarn add or npm install --save prop-types : pour valider les types de props a recevoir
+yarn add or npm install axios --save 
 
 
 BEST PRATICE
@@ -6,3 +7,4 @@ BEST PRATICE
 
 - Add props validation to all component if you work on a team
 - Using shouldComponentUpdate to refuse uncessary re-render of component
+- 
