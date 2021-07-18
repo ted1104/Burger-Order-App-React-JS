@@ -1,6 +1,6 @@
 yarn add or npm install --save prop-types : pour valider les types de props a recevoir
 yarn add or npm install axios --save 
-
+yarn add or npm install --save react-router react-router-dom
 
 BEST PRATICE
 ============
